@@ -5,14 +5,15 @@ crée par Raphaël Fillion et Philippe Trudel
 Sensibiliser la génération actuelle sur les conséquences écologiques de nos actions pour le futur. Faire réagir l'utilisateur sur l'importance de l'environnement et susciter son action.
 
 ## L'ambiance
-De facade: de la couleur, une musique agréable, un thème de fête. 
-Pour préparer l'utilisateur a une certaine expérience de jeu amusant.
-Il y aura un changement d'ambiance tout au long du jeu.
+De facade: de la couleur, une musique agréable, un thème de fête
+Pour préparer l'utilisateur a une certaine expérience de jeu amusant
+Il y aura un changement d'ambiance tout au long du jeu
 Changement d'apparence du personnage et glitch
 
 ## L'installation en cours dans les studios (photos à l'appui)
 
 ## le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
+
 
 ## Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 Répondre à plusieurs questions afin de pouvoir intéragir avec l'animateur et observer le déroulement de l'activité.
