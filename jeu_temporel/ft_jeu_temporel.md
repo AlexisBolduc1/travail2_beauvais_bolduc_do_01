@@ -11,9 +11,18 @@ Il y aura un changement d'ambiance tout au long du jeu
 Changement d'apparence du personnage et glitch
 
 ## L'installation en cours dans les studios (photos à l'appui)
+![Code](media_jeu_temporel/code.jpg)
+Début du code du projet
+
+![Installation](media_jeu_temporel/podium.jpg)
+Début d'installation avec le podium et les enceintes
+
+![Tablette](media_jeu_temporel/tablette.jpg)
+Écran de jeu et d'interactivité
 
 ## le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
-
+![Schéma](media_jeu_temporel/plan_technique_jeu.png)
+Source:https://github.com/Orbital3/Jeu-Temporel
 
 ## Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 Répondre à plusieurs questions afin de pouvoir intéragir avec l'animateur et observer le déroulement de l'activité.
