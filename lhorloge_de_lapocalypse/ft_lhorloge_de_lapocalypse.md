@@ -3,6 +3,7 @@ crée par Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard
 
 ## La façon dont le thème du temps est exploité dans la création
 L'impact collectif sur les événements socio-politiques et environnementaux qui se produisent tout au long du temps de l'humanité. Ce sujet est abordé à travers le concept de l'horloge de l'apocalypse. Selon ce concept, La fin du monde est à 24h00.
+
 Source: https://github.com/MALT5/L-horloge-de-l-apocalypse
 
 ## l'ambiance
