@@ -1,10 +1,12 @@
-## le titre
+## Distorsion Collective
 
-## les créateurs et créatrices
+## crée par William Dubois et Ghislain Lacombe
 
 ## la façon dont le thème du temps est exploité dans la création
+L'expérience est de la perspective d'un élève à l'école durant un cour en ligne. L'isolement déteriore la santé mentale de celui-ci et il semble être pris dans un cycle infini.
 
 ## l'ambiance
+L'ambiance change en fonction de la progression de l'expérience. Le plus loin on est, le plus chaotique et désorganisé l'entourage est.
 
 ## l'installation en cours dans les studios (photos à l'appui)
 
