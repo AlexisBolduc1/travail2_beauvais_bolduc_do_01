@@ -5,6 +5,8 @@
 ## la façon dont le thème du temps est exploité dans la création
 L'expérience est de la perspective d'un élève à l'école durant un cour en ligne. L'isolement déteriore la santé mentale de celui-ci et il semble être pris dans un cycle infini.
 
+Source: https://github.com/Freakout-Programs/Distorsion-collective
+
 ## l'ambiance
 L'ambiance change en fonction de la progression de l'expérience. Le plus loin on est, le plus chaotique et désorganisé l'entourage est.
 
