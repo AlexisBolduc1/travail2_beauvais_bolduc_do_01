@@ -1,2 +1,2 @@
 # Voici la documentation des oeuvres de finissants multimédia 
-J'ai fait le musée de la vie et l
+J'ai fait le musée de la vie et distorsion collective
