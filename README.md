@@ -1,2 +1,2 @@
 # Voici la documentation des oeuvres de finissants multimédia 
-je vais faire la distortion et chronophrage - quoc huy
+J'ai fait le musée de la vie et l
