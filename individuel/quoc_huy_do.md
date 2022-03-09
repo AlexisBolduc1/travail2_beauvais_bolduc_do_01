@@ -1,6 +1,6 @@
 # Quoc Huy Do
 
-## les projets ordonnés selon votre préférence actuelle (1 = votre projet préféré), avec justification
+## les projets ordonnés selon mes préférences actuelles
 
 1- **Jeu temporel**: Le concept n'est pas vraiment mon favoris mais j'aime beaucoup l'installation des boutons et de l'écran
 
@@ -14,7 +14,7 @@
 
 6- **Chère Sasha**: Même chose, l'idée n'est pas intéressant
 
-## ce que vous croyez que vous ressentirez en expériementant chacune des installations, avec justification
+## ce que je crois que je vais ressentir en expériementant chacune des installations, avec justification
 
 **Jeu temporel**: Je pense que je vais ressentir de la stupeur puisque le concept du projet est impressionant
 
@@ -28,5 +28,5 @@
 
 **Chère Sasha**: Je pense que je vais ressentir la même chose que Distorsion collective parce que je n'ai pas vraiment vécu dans les conditions qui sont représentées dans l'installation. 
 
-## le rôle que vous croyez que vous jouerez dans un tel projet, lorsque vous serez en 3e année, avec justification
+## le rôle que je crois que je vais jouer dans un tel projet, lorsque je sera en 3e année, avec justification
 Je pense que je serait principalement l'artiste de l'équipe, puisque les amis que je collaborent le plus avec dans mes cours sont moins fort dans ce point-ci mais plus fort dans d'autres aspects tel que la programmation et la planification.
