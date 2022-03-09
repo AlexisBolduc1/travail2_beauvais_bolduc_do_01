@@ -1,15 +1,12 @@
-## le titre
+# 3 minutes
+crée par 
 
-## les créateurs et créatrices
+## Comment le thème du temps est exploité dans la création?
 
-## la façon dont le thème du temps est exploité dans la création
+## L'ambiance
 
-## l'ambiance
+## L'installation en cours dans les studios
 
-## l'installation en cours dans les studios (photos à l'appui)
+## Le schéma de l'installation prévue
+![](media_3minutes/exemple.png)
 
-## le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
-
-## ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
-
-## 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme)
