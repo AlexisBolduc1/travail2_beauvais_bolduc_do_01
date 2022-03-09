@@ -36,4 +36,5 @@ Voir des peintures s'animer va donner l'impression qu'une oeuvre prend vie, comm
 
 ## Le rôle que je croit que je jouerait dans un tel projet, lorsque je serai en 3e année, avec justification
 ![Alexis Bolduc](media_alexis/moi.JPG)
+
 Je pense servir de ligne directrice lors de ce projet. La personne qui s'assure du bon fonctionnement de tout et que tout soit effectuer dans les temps. Je suis très bon pour gérer une équipe et s'occuper de l'organisation de celle-ci. Sinon lors de la création, je pense m'occuper du montage vidéo et sonore. Le montage est mon côté préféré du multimédia ainsi que ma force. 
