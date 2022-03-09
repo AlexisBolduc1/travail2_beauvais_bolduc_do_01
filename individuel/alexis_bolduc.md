@@ -1,6 +1,7 @@
 # Alexis Bolduc
 ## Les projets ordonnés selon ma préférence actuelle, avec justification
 ![Jeu temporel](media_alexis/banniere_jeu.png)
+[Source](https://github.com/Orbital3/Jeu-Temporel)
 
 1 = Jeu temporel / Mon concept préféré, j'aime beaucoup l'installation
 
