@@ -5,7 +5,8 @@
 ## la façon dont le thème du temps est exploité dans la création
 Les peintures montrent un personnage qui passe tout son temps à chercher du temps. À la fin, elle a ironiquement perdu plus de temps à chercher ceci. Cela est une allégorie pour la société qui nous met de la pression de toujours être productif et ne jamais avoir de pause.
 
-Source: https://github.com/Blobduckies/Chronaufrage
+[Source](https://github.com/Blobduckies/Chronaufrage)
+
 ## l'ambiance
 L'ambiance change en fonction de la position de l'utilisateur et des gestes qu'on fait devant les peintures. Ça commence avec un ambiance avec peu d'espoir et fini avec une qui est plus relax et paisible.
 
@@ -20,13 +21,13 @@ Les emplacements des peintures
 ![mesures](media_chronaufrage/mesures.jpg)
 Prise de mesure
 
-Source: https://github.com/Blobduckies/Chronaufrage
+[Source](https://github.com/Blobduckies/Chronaufrage)
 
 ## le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 
 ![plan](media_chronaufrage/plan_technique.png)
 
-Source: https://github.com/Blobduckies/Chronaufrage
+[Source](https://github.com/Blobduckies/Chronaufrage)
 
 ## ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 
@@ -40,4 +41,4 @@ Animation 2D - Pour avoir des animations qui sont plaisant à observer
 
 Espace Interactif - Pour avoir des capteurs qui vont changer les peintures selon la position de l'utilisateur
 
-Source: https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/
+[Source](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)
