@@ -11,16 +11,16 @@ L'ambiance change en fonction de l'heure déterminé.
 Dans le but de mettre dans différent état l'utilisateur, l'ambiance passe de très calme à une ambiance d'apocalypse si l'on suit le fuseau horaire.
 
 ## L'installation en cours dans les studios
-![Projecteur](medias_lhorloge/projecteur.jpg)
+![Projecteur](medias_horloge/projecteur.jpeg)
 Projecteur installé
 
-![Ensemble du studio](medias_lhorloge/studio.jpg)
+![Ensemble du studio](medias_horloge/studio.jpeg)
 Début d'installation avec l'horloge et les enceintes
 
 [Source](https://github.com/MALT5/L-horloge-de-l-apocalypse)
 
 ## Le schéma de l'installation prévue 
-![Plan de plantation](medias_lhorloge/plantation.png)
+![Plan de plantation](medias_horloge/plantation.png)
 
 [Source](https://github.com/MALT5/L-horloge-de-l-apocalypse)
 
