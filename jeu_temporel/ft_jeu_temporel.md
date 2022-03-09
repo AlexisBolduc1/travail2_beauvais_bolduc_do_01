@@ -14,7 +14,7 @@ Changement d'apparence du personnage et glitch
 
 [Source](https://github.com/Orbital3/Jeu-Temporel)
 
-## L'installation en cours dans les studios (photos à l'appui)
+## L'installation en cours dans les studios
 ![Code](media_jeu_temporel/code.jpg)
 Début du code du projet
 
@@ -26,14 +26,14 @@ Début d'installation avec le podium et les enceintes
 
 [Source](https://github.com/Orbital3/Jeu-Temporel)
 
-## le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
+## le schéma de l'installation prévue
 ![Schéma](media_jeu_temporel/plan_technique_jeu.png)
 [Source](https://github.com/Orbital3/Jeu-Temporel)
 
-## Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
+## Ce qui sera attendu en tant qu'interacteur.trice, lors de l'expérience de l'installation
 Répondre à plusieurs questions afin de pouvoir intéragir avec l'animateur et observer le déroulement de l'activité.
 
-## 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme)
+## 3 cours du programme qui me semblent incontournables pour avoir les compétences pour créer ce projet
 
 Animation 3d / Pour animer le présentateur et le faire évoluer au fil du temps
 
