@@ -1,5 +1,5 @@
 # Alexis Bolduc
-## Les projets ordonnés selon votre préférence actuelle, avec justification
+## Les projets ordonnés selon ma préférence actuelle, avec justification
 
 1 = Jeu temporel / Mon concept préféré, j'aime beaucoup l'installation
 
@@ -13,7 +13,7 @@
 
 6 = Chronaufrage / Intéressé par l'animation d'une vraie peinture
 
-## Ce que vous croyez que vous ressentirez en expériementant chacune des installations, avec justification
+## Ce que j'expériementerait à chacune des installations, avec justification
 
 ### Jeu temporel
 Je pense réaliser les véritables enjeux avec l'environnement, cela va davantage rester dans ma tête car c'est matérialiser sous forme de jeu.
@@ -33,7 +33,5 @@ Je pense ressentir la difficulté d'être une personne lgbtq selon le milieu dan
 ### Chronaufrage
 Voir des peintures s'animer va donner l'impression qu'une oeuvre prend vie, comme si quelqu'un de mort reprenait vie. Je pense aussi avoir l'impression que quelqu'un vit dans un cadre, dans la peinture.
 
-## Le rôle que vous croyez que vous jouerez dans un tel projet, lorsque vous serez en 3e année, avec justification
-
-### Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies 
-### Lorsque cela est pertinent et en créant des fichiers agréables à lire, dans lesquels on repère facilement l'information
+## Le rôle que je croit que je jouerait dans un tel projet, lorsque je serai en 3e année, avec justification
+Je pense servir de ligne directrice lors de ce projet. La personne qui s'assure du bon fonctionnement de tout et que tout soit effectuer dans les temps. Je suis très bon pour gérer une équipe et s'occuper de l'organisation de celle-ci. Sinon lors de la création, je pense m'occuper du montage vidéo et sonore. Le montage est mon côté préféré du multimédia ainsi que ma force. 
