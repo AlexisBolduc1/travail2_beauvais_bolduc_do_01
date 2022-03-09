@@ -10,7 +10,7 @@ Les peintures montrent un personnage qui passe tout son temps à chercher du tem
 ## l'ambiance
 L'ambiance change en fonction de la position de l'utilisateur et des gestes qu'on fait devant les peintures. Ça commence avec un ambiance avec peu d'espoir et fini avec une qui est plus relax et paisible.
 
-## l'installation en cours dans les studios (photos à l'appui)
+## l'installation en cours dans les studios
 
 ![projecteur](media_chronaufrage/projecteur.jpg)
 L'installation d'un projecteur
@@ -23,13 +23,13 @@ Prise de mesure
 
 [Source](https://github.com/Blobduckies/Chronaufrage)
 
-## le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
+## le schéma de l'installation prévue
 
 ![plan](media_chronaufrage/plan_technique.png)
 
 [Source](https://github.com/Blobduckies/Chronaufrage)
 
-## ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
+## ce qui sera attendu de moi, en tant qu'interacteur, lorsque vous ferez l'expérience de l'installation
 
 L'interacteur aura pour but de se déplacer devant les peintures et faire des gestes pour changer ce que la peinture montre
 
