@@ -27,7 +27,7 @@ L'environnement Unity
 [Source](https://github.com/Freakout-Programs/Distorsion-collective)
 
 ## le schéma de l'installation prévue
-![schema](media_distorsion/schéma_de_branchement.png)
+![schema](media_distorsion/schema_plantation.png)
 
 [Source](https://github.com/Freakout-Programs/Distorsion-collective)
 
