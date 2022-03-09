@@ -10,7 +10,7 @@ L'impact collectif sur les événements socio-politiques et environnementaux qui
 L'ambiance change en fonction de l'heure déterminé.
 Dans le but de mettre dans différent état l'utilisateur, l'ambiance passe de très calme à une ambiance d'apocalypse si l'on suit le fuseau horaire.
 
-## L'installation en cours dans les studios (photos à l'appui)
+## L'installation en cours dans les studios
 ![Projecteur](medias_lhorloge/projecteur.jpg)
 Projecteur installé
 
@@ -19,7 +19,7 @@ Début d'installation avec l'horloge et les enceintes
 
 [Source](https://github.com/MALT5/L-horloge-de-l-apocalypse)
 
-## Le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
+## Le schéma de l'installation prévue 
 ![Plan de plantation](medias_lhorloge/plantation.png)
 
 [Source](https://github.com/MALT5/L-horloge-de-l-apocalypse)
@@ -29,7 +29,7 @@ L'interacteur aura pour but de modifier l'heure et l'ambiance grâce à une horl
 Il doit faire quelque chose avant minuit car c'est à ce moment-là que se produira la fin du monde.
 
 
-## 3 cours du programme qui me semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme)
+## 3 cours du programme qui me semblent incontournables pour avoir les compétences pour créer ce projet
 Conception sonore / Dans le but de faire une trame sonore réaliste et qui plonge réellement l'utilisateur dans l'ambiance
 
 Montage vidéo / Afin de créer et de représenter des images réalistes pour montrer les différents moments et les différentes ambiances
