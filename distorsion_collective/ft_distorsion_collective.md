@@ -10,7 +10,7 @@ L'expérience est de la perspective d'un élève à l'école durant un cour en l
 ## l'ambiance
 L'ambiance change en fonction de la progression de l'expérience. Le plus loin on est, le plus chaotique et désorganisé l'entourage est.
 
-## l'installation en cours dans les studios (photos à l'appui)
+## l'installation en cours dans les studios
 
 ![motion capture](media_distorsion/motionCapture.jpg)
 Motion Capture
@@ -31,7 +31,7 @@ L'environnement Unity
 
 [Source](https://github.com/Freakout-Programs/Distorsion-collective)
 
-## ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
+## ce qui sera attendu de moi, en tant qu'interacteur, lorsque vous ferez l'expérience de l'installation
 L'interacteur aura pour but d'observer l'environnement changer lors de l'expérience et comprendre les difficultés de l'apprentissage à distance.
 
 ## 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
