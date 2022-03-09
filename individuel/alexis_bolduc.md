@@ -1,5 +1,6 @@
 # Alexis Bolduc
 ## Les projets ordonnés selon ma préférence actuelle, avec justification
+![Jeu temporel](medias_alexis/banniere_jeu.png)
 
 1 = Jeu temporel / Mon concept préféré, j'aime beaucoup l'installation
 
@@ -34,4 +35,5 @@ Je pense ressentir la difficulté d'être une personne lgbtq selon le milieu dan
 Voir des peintures s'animer va donner l'impression qu'une oeuvre prend vie, comme si quelqu'un de mort reprenait vie. Je pense aussi avoir l'impression que quelqu'un vit dans un cadre, dans la peinture.
 
 ## Le rôle que je croit que je jouerait dans un tel projet, lorsque je serai en 3e année, avec justification
+![Alexis Bolduc](medias_alexis/moi.JPG)
 Je pense servir de ligne directrice lors de ce projet. La personne qui s'assure du bon fonctionnement de tout et que tout soit effectuer dans les temps. Je suis très bon pour gérer une équipe et s'occuper de l'organisation de celle-ci. Sinon lors de la création, je pense m'occuper du montage vidéo et sonore. Le montage est mon côté préféré du multimédia ainsi que ma force. 
