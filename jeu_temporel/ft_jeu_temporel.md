@@ -26,7 +26,7 @@ Début d'installation avec le podium et les enceintes
 
 [Source](https://github.com/Orbital3/Jeu-Temporel)
 
-## le schéma de l'installation prévue
+## Le schéma de l'installation prévue
 ![Schéma](media_jeu_temporel/plan_technique_jeu.png)
 [Source](https://github.com/Orbital3/Jeu-Temporel)
 
