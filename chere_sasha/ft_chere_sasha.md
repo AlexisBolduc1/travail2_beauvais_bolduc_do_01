@@ -25,6 +25,7 @@ https://github.com/task-tim/Chere-Sasha/blob/main/docs/preproduction/medias/plan
 
 https://github.com/task-tim/Chere-Sasha/blob/main/docs/preproduction/medias/plantation_02.jpg
 ## Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
+Le projet est en grande partie contemplatif, donc le public doit seulement vivre l'oeuvre. À la fin de l'oeuvre, l'utilisateur devra envoyé un message à Sasha.
 
 ## 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme)
 Animation 2D, conception sonore et espace intéractif.
